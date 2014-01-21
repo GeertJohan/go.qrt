@@ -37,6 +37,7 @@ This package imports and uses [code.google.com/p/rsc/qr][rsc-qr], a QR generatio
 
 ### Screenshot
 ![QR code in terminal](/screenshot.png "QR code in terminal")
+
 Depending on your terminalnd font you may need to scan the QR code under an angle to make it appear square for the scanner.
 
  [godoc]: https://godoc.org/github.com/GeertJohan/go.qrt
