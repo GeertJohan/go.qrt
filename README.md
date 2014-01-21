@@ -37,7 +37,9 @@ This project is licensed under a Simplified BSD license. Please read the [LICENS
 ### Attribution
 This package imports and uses [code.google.com/p/rsc/qr][rsc-qr], a QR generation package by Russ Cox.
 
+### Screenshot
+![QR code in terminal](/screenshot.png "QR code in terminal")
+
  [godoc]: https://godoc.org/github.com/GeertJohan/go.qrt
  [license]: https://github.com/GeertJohan/go.qrt/blob/master/LICENSE
  [rsc-qr]: https://code.google.com/p/rsc/source/browse/#hg%2Fqr`
- 
