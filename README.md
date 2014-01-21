@@ -4,6 +4,8 @@ Generate QR code's for in your terminal.
 
 go.qrt generates a QR code based on UTF-8 characters. This allow you to display a QR code in your terminal
 
+** Depending on your terminal, you may need to scan the QR code under an angle to make it appear square **
+
 ### Install
 `go get github.com/GeertJohan/go.qrt`
 
@@ -37,4 +39,5 @@ This package imports and uses [code.google.com/p/rsc/qr][rsc-qr], a QR generatio
 
  [godoc]: https://godoc.org/github.com/GeertJohan/go.qrt
  [license]: https://github.com/GeertJohan/go.qrt/blob/master/LICENSE
- [rsc-qr]: https://code.google.com/p/rsc/source/browse/#hg%2Fqr
+ [rsc-qr]: https://code.google.com/p/rsc/source/browse/#hg%2Fqr`
+ 
